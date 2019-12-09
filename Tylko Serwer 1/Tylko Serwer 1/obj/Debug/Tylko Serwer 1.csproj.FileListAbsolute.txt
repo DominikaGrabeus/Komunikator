@@ -1,0 +1,10 @@
+C:\Users\Dominika Grabeus\Desktop\Tylko Serwer 1\Tylko Serwer 1\obj\Debug\Tylko Serwer 1.csprojAssemblyReference.cache
+C:\Users\Dominika Grabeus\Desktop\Tylko Serwer 1\Tylko Serwer 1\obj\Debug\Tylko_Serwer_1.SerwerForm.resources
+C:\Users\Dominika Grabeus\Desktop\Tylko Serwer 1\Tylko Serwer 1\obj\Debug\Tylko_Serwer_1.Properties.Resources.resources
+C:\Users\Dominika Grabeus\Desktop\Tylko Serwer 1\Tylko Serwer 1\obj\Debug\Tylko Serwer 1.csproj.GenerateResource.cache
+C:\Users\Dominika Grabeus\Desktop\Tylko Serwer 1\Tylko Serwer 1\obj\Debug\Tylko Serwer 1.csproj.CoreCompileInputs.cache
+C:\Users\Dominika Grabeus\Desktop\Tylko Serwer 1\Tylko Serwer 1\bin\Debug\Tylko Serwer 1.exe.config
+C:\Users\Dominika Grabeus\Desktop\Tylko Serwer 1\Tylko Serwer 1\bin\Debug\Tylko Serwer 1.exe
+C:\Users\Dominika Grabeus\Desktop\Tylko Serwer 1\Tylko Serwer 1\bin\Debug\Tylko Serwer 1.pdb
+C:\Users\Dominika Grabeus\Desktop\Tylko Serwer 1\Tylko Serwer 1\obj\Debug\Tylko Serwer 1.exe
+C:\Users\Dominika Grabeus\Desktop\Tylko Serwer 1\Tylko Serwer 1\obj\Debug\Tylko Serwer 1.pdb
