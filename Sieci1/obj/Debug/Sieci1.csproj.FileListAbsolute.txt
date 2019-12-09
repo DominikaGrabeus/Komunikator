@@ -1,0 +1,52 @@
+C:\Users\Dominika Grabeus\Desktop\Sieci1\Sieci1\bin\Debug\Sieci1.exe.config
+C:\Users\Dominika Grabeus\Desktop\Sieci1\Sieci1\bin\Debug\Sieci1.exe
+C:\Users\Dominika Grabeus\Desktop\Sieci1\Sieci1\bin\Debug\Sieci1.pdb
+C:\Users\Dominika Grabeus\Desktop\Sieci1\Sieci1\obj\Debug\Sieci1.csprojAssemblyReference.cache
+C:\Users\Dominika Grabeus\Desktop\Sieci1\Sieci1\obj\Debug\Sieci1.Form1.resources
+C:\Users\Dominika Grabeus\Desktop\Sieci1\Sieci1\obj\Debug\Sieci1.Properties.Resources.resources
+C:\Users\Dominika Grabeus\Desktop\Sieci1\Sieci1\obj\Debug\Sieci1.csproj.GenerateResource.cache
+C:\Users\Dominika Grabeus\Desktop\Sieci1\Sieci1\obj\Debug\Sieci1.csproj.CoreCompileInputs.cache
+C:\Users\Dominika Grabeus\Desktop\Sieci1\Sieci1\obj\Debug\Sieci1.exe
+C:\Users\Dominika Grabeus\Desktop\Sieci1\Sieci1\obj\Debug\Sieci1.pdb
+C:\Users\Dominika Grabeus\Desktop\Sieci1\Sieci1\obj\Debug\Sieci1.Form2.resources
+C:\Users\Dominika Grabeus\Desktop\Sieci1\Sieci1\obj\Debug\Sieci1.Form3.resources
+C:\Users\Dominika Grabeus\Desktop\Sieci1\Sieci1\obj\Debug\Sieci1.Form4.resources
+C:\Users\Dominika Grabeus\Desktop\KittenTalks\Sieci1\bin\Debug\Sieci1.exe.config
+C:\Users\Dominika Grabeus\Desktop\KittenTalks\Sieci1\bin\Debug\Sieci1.exe
+C:\Users\Dominika Grabeus\Desktop\KittenTalks\Sieci1\bin\Debug\Sieci1.pdb
+C:\Users\Dominika Grabeus\Desktop\KittenTalks\Sieci1\obj\Debug\Sieci1.csprojAssemblyReference.cache
+C:\Users\Dominika Grabeus\Desktop\KittenTalks\Sieci1\obj\Debug\Sieci1.Form1.resources
+C:\Users\Dominika Grabeus\Desktop\KittenTalks\Sieci1\obj\Debug\Sieci1.Form2.resources
+C:\Users\Dominika Grabeus\Desktop\KittenTalks\Sieci1\obj\Debug\Sieci1.Form3.resources
+C:\Users\Dominika Grabeus\Desktop\KittenTalks\Sieci1\obj\Debug\Sieci1.Form4.resources
+C:\Users\Dominika Grabeus\Desktop\KittenTalks\Sieci1\obj\Debug\Sieci1.Properties.Resources.resources
+C:\Users\Dominika Grabeus\Desktop\KittenTalks\Sieci1\obj\Debug\Sieci1.csproj.GenerateResource.cache
+C:\Users\Dominika Grabeus\Desktop\KittenTalks\Sieci1\obj\Debug\Sieci1.csproj.CoreCompileInputs.cache
+C:\Users\Dominika Grabeus\Desktop\KittenTalks\Sieci1\obj\Debug\Sieci1.exe
+C:\Users\Dominika Grabeus\Desktop\KittenTalks\Sieci1\obj\Debug\Sieci1.pdb
+G:\KittenTalks\Sieci1\bin\Debug\Sieci1.exe.config
+G:\KittenTalks\Sieci1\bin\Debug\Sieci1.exe
+G:\KittenTalks\Sieci1\bin\Debug\Sieci1.pdb
+G:\KittenTalks\Sieci1\obj\Debug\Sieci1.csprojAssemblyReference.cache
+G:\KittenTalks\Sieci1\obj\Debug\Sieci1.Form1.resources
+G:\KittenTalks\Sieci1\obj\Debug\Sieci1.Form2.resources
+G:\KittenTalks\Sieci1\obj\Debug\Sieci1.Form3.resources
+G:\KittenTalks\Sieci1\obj\Debug\Sieci1.Form4.resources
+G:\KittenTalks\Sieci1\obj\Debug\Sieci1.Properties.Resources.resources
+G:\KittenTalks\Sieci1\obj\Debug\Sieci1.csproj.GenerateResource.cache
+G:\KittenTalks\Sieci1\obj\Debug\Sieci1.csproj.CoreCompileInputs.cache
+G:\KittenTalks\Sieci1\obj\Debug\Sieci1.exe
+G:\KittenTalks\Sieci1\obj\Debug\Sieci1.pdb
+C:\Users\Dominika Grabeus\Desktop\KittenTalks1\Sieci1\bin\Debug\Sieci1.exe.config
+C:\Users\Dominika Grabeus\Desktop\KittenTalks1\Sieci1\bin\Debug\Sieci1.exe
+C:\Users\Dominika Grabeus\Desktop\KittenTalks1\Sieci1\obj\Debug\Sieci1.csprojAssemblyReference.cache
+C:\Users\Dominika Grabeus\Desktop\KittenTalks1\Sieci1\obj\Debug\Sieci1.Form1.resources
+C:\Users\Dominika Grabeus\Desktop\KittenTalks1\Sieci1\obj\Debug\Sieci1.Form2.resources
+C:\Users\Dominika Grabeus\Desktop\KittenTalks1\Sieci1\obj\Debug\Sieci1.Form3.resources
+C:\Users\Dominika Grabeus\Desktop\KittenTalks1\Sieci1\obj\Debug\Sieci1.Form4.resources
+C:\Users\Dominika Grabeus\Desktop\KittenTalks1\Sieci1\obj\Debug\Sieci1.Properties.Resources.resources
+C:\Users\Dominika Grabeus\Desktop\KittenTalks1\Sieci1\obj\Debug\Sieci1.csproj.GenerateResource.cache
+C:\Users\Dominika Grabeus\Desktop\KittenTalks1\Sieci1\obj\Debug\Sieci1.csproj.CoreCompileInputs.cache
+C:\Users\Dominika Grabeus\Desktop\KittenTalks1\Sieci1\obj\Debug\Sieci1.exe
+C:\Users\Dominika Grabeus\Desktop\KittenTalks1\Sieci1\obj\Debug\Sieci1.pdb
+C:\Users\Dominika Grabeus\Desktop\KittenTalks1\Sieci1\bin\Debug\Sieci1.pdb
